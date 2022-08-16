@@ -1,0 +1,26 @@
+.row{
+   border: 2px solid red;
+}
+
+.col{
+    border: 2px solid black;
+}
+
+.heading{
+    text-align: center;
+}
+
+.screen{
+height: 50px;
+width: 100%;
+    text-align: center;
+}
+
+.button{
+        background-color:rgb(47, 107, 84);
+        display: block;
+        margin: 10px 0;
+        padding: 10px;
+        width: 100%;
+
+}
